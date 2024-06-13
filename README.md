@@ -1,4 +1,4 @@
-<h3 align="center">Marcel `yyscript´ @code-of</h3>
+<h3 align="center">(code-of) "yyscript" Marcel</h3>
 
 ###
 
@@ -6,6 +6,8 @@
 
 <div align="center">
   <img height="128" src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/2ab21be2ee24ad6f83ca55baccb323da-1707237988984/1e02ab01-481e-4fde-84de-628c10d8eecb.png"  />
+  <p align="center">“𝕴 𝖜𝖎𝖘𝖍 𝕴 𝖈𝖔𝖚𝖑𝖉 𝖌𝖔 𝖇𝖆𝖈𝖐 𝖙𝖔 𝖈𝖔𝖓𝖛𝖎𝖓𝖈𝖊 𝖒𝖞𝖘𝖊𝖑𝖋 𝖙𝖔 𝖙𝖆𝖐𝖊 𝖆 𝖉𝖎𝖋𝖋𝖊𝖗𝖊𝖓𝖙 𝖕𝖆𝖙𝖍, 𝖇𝖚𝖙 𝕴 𝖈𝖆𝖓'𝖙 𝖉𝖔 𝖙𝖍𝖆𝖙.” – 𝕽𝖔𝖘𝖘 𝖀𝖑𝖇𝖗𝖎𝖈𝖍𝖙.<br>
+🌐->💓 = ✅; #𝖗𝖊𝖙𝖚𝖗𝖓_𝖘𝖚𝖈𝖈𝖊𝖘𝖘</p>
 </div>
 
 ###
