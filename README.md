@@ -159,4 +159,10 @@
 🌐->💓 = ✅; #𝖗𝖊𝖙𝖚𝖗𝖓_𝖘𝖚𝖈𝖈𝖊𝖘𝖘</p>
 </div>
 
+<br clear="both">
+
 ###
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiguyde&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+</div>
