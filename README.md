@@ -1,6 +1,6 @@
 <div align="center" style="color:rgb(48,72,255);">
 
-# Marcel @elbolz
+# Marcel @elokrypt
 
 </div>
 
@@ -20,7 +20,7 @@
 <br clear="both">
 <div align="center">
 <div align="left">
-  <a href="https://instagram.com/yyscript" target="_blank">
+  <a href="https://instagram.com/return.successs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="32" alt="instagram logo"  />
   </a>
 </div>
@@ -148,7 +148,7 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://profile-counter.glitch.me/xiguyde/count.svg" />
+  <img src="https://profile-counter.glitch.me/elokrypt/count.svg" />
 </div>
 <br clear="both">
 
@@ -164,5 +164,5 @@
 ###
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elbolz&theme=github_dark" alt="elbolz's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elokrypt&theme=github_dark" alt="elokrypt's GitHub Stats"/>
 </div>
